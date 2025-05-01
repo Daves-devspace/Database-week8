@@ -34,7 +34,8 @@ This project is a **Student Records Management API** built with **FastAPI** and 
 
 ### ERD (Entity Relationship Diagram)
 
-![ERD Screenshot](link-to-your-ERD.png)
+![ERM](https://github.com/user-attachments/assets/cf2bfcf3-b39b-466d-b042-ff3dd30f61c8)
+
 
 ---
 
