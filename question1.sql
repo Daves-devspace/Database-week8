@@ -1,3 +1,4 @@
+-- Question1
 -- Create Students table
 CREATE TABLE Students (
     student_id INT PRIMARY KEY AUTO_INCREMENT,
